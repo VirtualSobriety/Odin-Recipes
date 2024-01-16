@@ -1,0 +1,47 @@
+body {
+    background-color: beige;
+    font-family: Arial, Verdana;
+}
+
+h1 {text-align: center;
+    text-decoration: underline;
+    color: black;
+}
+
+.main_pic {
+    width: 80%;
+    height: 80%;
+}
+
+ol li {
+    text-align: left;
+    
+}
+
+ul li {
+    font-weight: 650;
+}
+
+.footer {
+    text-align: center;
+    text-decoration: underline;
+        font-size: xx-large;
+}
+
+button {
+    text-decoration:none;
+    background-color: bisque;
+    color: white;
+    font-size: 25px;
+    border-style:double;
+    border-width:3px;
+}
+
+.food {
+    width: 60%;
+    height: 60%;
+    }
+
+.intro {
+    text-align: center;
+}
